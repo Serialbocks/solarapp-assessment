@@ -1,0 +1,6 @@
+{
+    "id": "int",
+    "type": "battery-system",
+    "current-output-amps": "float",
+    "output": "int"
+}

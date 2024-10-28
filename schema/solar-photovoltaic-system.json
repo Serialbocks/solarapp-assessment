@@ -1,0 +1,6 @@
+{
+    "id": "int",
+    "type": "solar-photovoltaic-system",
+    "current-output-amps": "float",
+    "output": "int"
+}

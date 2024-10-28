@@ -1,0 +1,15 @@
+{
+    "elements": [
+        {
+            "id": 1,
+            "type": "solar-photovoltaic-system",
+            "current-output-amps": 20.0,
+            "output": 2
+        },
+        {
+            "id": 2,
+            "type": "disconnecting-means",
+            "output": null
+        }
+    ]
+}

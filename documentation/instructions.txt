@@ -1,0 +1,13 @@
+Overview: Your task is to review an applicable section of the electrical code (NEC 200, section 705.11a) and draft a machine-readable interpretation of this code. We don’t expect you to perfectly interpret the code; this will be a first draft that we can then discuss with you during our onsite interview. Please take no more than 4 hours to complete the task; we expect that it will take between 1-2 hours. Document your work however you like. Please send in your documented response at least 24 hours prior to your scheduled interview time. 
+
+Specifics: 
+
+We’ve attached screenshots of section 705.11 (and other relevant sections) of NEC code. Review the sections and their external references. We’d like you to draft machine readable code analyzing whether a solar photovoltaic system, with or without energy storage, is compliant with Section 705.11(A). You should: 
+
+
+Identify and document all of the variables you’ll need to extract
+
+Write pseudo code describing the checks you’d want to make. 
+
+Come prepared to walk through your process and the work you did with Dan and Mark.
+

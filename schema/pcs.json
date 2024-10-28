@@ -1,0 +1,6 @@
+{
+    "id": "int",
+    "type": "pcs",
+    "current-output-amps": "float",
+    "output": "int"
+}
